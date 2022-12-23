@@ -1,5 +1,9 @@
 
-# How our app is architected
+# Video Resources
+Breathe animation video: https://youtu.be/DAljUK7S0HI
+Memory animation video: https://youtu.be/wyshhICFKMw
+
+# How the app is architected
 We use MVVM with Provider and Dependancy injection. MVVM for architecting logic, Provider for statemanagement, and Dependancy Injection for services.
 - Widgets are the smallest form of functionality
 - Screens are a collection of views and widgets
